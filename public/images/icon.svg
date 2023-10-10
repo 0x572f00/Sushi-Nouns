@@ -1,0 +1,18 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="120" height="120" rx="9" fill="#D5D7E1"/>
+<rect x="45" y="40" width="10" height="10" fill="#FCCF25"/>
+<rect x="55" y="40" width="10" height="10" fill="#4B4949"/>
+<rect x="45" y="50" width="10" height="10" fill="white"/>
+<rect x="55" y="50" width="10" height="10" fill="#4B4949"/>
+<rect x="65" y="40" width="10" height="10" fill="#FCCF25"/>
+<rect x="65" y="50" width="10" height="10" fill="white"/>
+<rect x="35" y="70" width="10" height="10" fill="#D4A015"/>
+<rect x="25" y="60" width="10" height="10" fill="#D4A015"/>
+<rect x="35" y="60" width="10" height="10" fill="#D4A015"/>
+<rect x="75" y="60" width="10" height="10" fill="#D4A015"/>
+<rect x="85" y="60" width="10" height="10" fill="#D4A015"/>
+<rect x="75" y="70" width="10" height="10" fill="#D4A015"/>
+<rect x="45" y="60" width="10" height="10" fill="#D4A015"/>
+<rect x="55" y="60" width="10" height="10" fill="#D4A015"/>
+<rect x="65" y="60" width="10" height="10" fill="#D4A015"/>
+</svg>
