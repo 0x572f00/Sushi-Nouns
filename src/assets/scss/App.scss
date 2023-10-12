@@ -6,13 +6,10 @@
   }
 }
 
-h1 {
-  margin: 0;
-  img {
-    height: 3rem;
-  }
-}
-
 .filters {
   margin-bottom: 2rem;
+}
+
+.container-lg {
+  padding-top: var(--bs-gutter-x);
 }

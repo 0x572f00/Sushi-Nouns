@@ -137,13 +137,6 @@ const Playground: React.FC = () => {
     )}
       <Container fluid="lg">
       <Row>
-        <Col lg={10} className={classes.headerRow}>
-          <h1>
-            <img src="images/sushiNouns.svg" alt="遊び場"/>
-          </h1>
-        </Col>
-      </Row>
-      <Row>
         <Col lg={3} className='filters'>
           <Col lg={12}>
             <Button
