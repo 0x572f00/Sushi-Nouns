@@ -1,6 +1,4 @@
-import React from "react";
 import { Routes, Route, Link } from "react-router-dom";
-import classes from './App.module.css';
 import './assets/css/globals.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
