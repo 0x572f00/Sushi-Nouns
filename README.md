@@ -1,4 +1,5 @@
-## Sushi Nouns playground -[sushi.sebastien.wtf](https://sushi.sebastien.wtf)
+## Sushi Nouns playground
+### [sushi.sebastien.wtf](https://sushi.sebastien.wtf)
 
 Simple approach to create fun and interactive playgrounds using code provided by the [Nouns DAO monorepo](https://github.com/nounsDAO/nouns-monorepo).
 
