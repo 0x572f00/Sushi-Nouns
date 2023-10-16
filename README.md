@@ -2,7 +2,7 @@
 
 Simple approach to create fun and interactive playgrounds using code provided by the [Nouns DAO monorepo](https://github.com/nounsDAO/nouns-monorepo).
 
-Assets are from the [Nouns DAO Japan team](https://github.com/nounsDAO/nouns-monorepo), i simply patched the @nouns/assets package with their images data.
+Assets are from the [Nouns DAO Japan team](https://github.com/nounsDAO/nouns-monorepo), i simply patched the `@nouns/assets` package with their images data.
 
 Here's some instructions to guide you through the process to make your own.
 
@@ -32,7 +32,7 @@ To make your own playground, simply place your 32x32px .png into the correspondi
 yarn encode
 ```
 
-You will then have to replace the `node_modules/@nouns/assets/images-data.json` file with the new one generated in `src/` and patch the @nouns/assets package :
+You will then have to replace the `node_modules/@nouns/assets/images-data.json` file with the new one generated in `src/` and patch the `@nouns/assets` package :
 
 ```shell
 yarn patch-package @nouns/assets
