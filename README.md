@@ -47,4 +47,4 @@ Before uploading your playground online, it's important to build the project to 
 yarn build
 ```
 
-This will generate a `dist/` folder with the optimized files you need.
+This will generate a `dist/` folder with the files you need.
