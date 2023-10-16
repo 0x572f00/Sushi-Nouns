@@ -10,9 +10,9 @@ import {
   Popover,
 } from 'react-bootstrap/esm';
 import classes from './Playground.module.css';
-import React, { ChangeEvent, ReactNode, useEffect, useRef, useState } from 'react';
+import React, {  ReactNode, useEffect, useState } from 'react';
 import { ImageData, getNounData, getRandomNounSeed } from '@nouns/assets';
-import { buildSVG, EncodedImage, PNGCollectionEncoder } from '@nouns/sdk';
+import { buildSVG, PNGCollectionEncoder } from '@nouns/sdk';
 import Noun from './components/Noun/index.tsx';
 import NounModal from './components/NounModal/index.tsx';
 
